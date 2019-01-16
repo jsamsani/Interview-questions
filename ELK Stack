@@ -1,4 +1,7 @@
-ELK is a combination of Elasticsearch, Logstash and Kibana.
+BELK is a combination of Beats, Elasticsearch, Logstash and Kibana.
+
+
+
 Elasticsearch Objectives:
 
 Installation and Configuration
