@@ -1,9 +1,6 @@
 BELK is a combination of Beats, Elasticsearch, Logstash and Kibana.
 
-
-
 Elasticsearch Objectives:
-
 Installation and Configuration
 •	Deploy and start an Elasticsearch cluster that satisfies a given set of requirements
 •	Configure the nodes of a cluster to satisfy a given set of requirements
